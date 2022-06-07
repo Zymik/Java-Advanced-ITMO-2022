@@ -1,0 +1,25 @@
+Analyzed file "de.in"
+Summary statistics
+   Count of sentences: 13
+   Count of words: 151
+   Count of numbers: 3
+   Count of monies: 0
+Sentences statistic
+   Count of sentences: 13 (13 different).
+   Minimum sentence: "Am Samstag gehen wir oft ins Kino.".
+   Maximum sentence: "Wir wohnen mit unseren Eltern in einem Haus in der Nähe von München.".
+   Minimum sentence length: 30 ("Sonntag ist mein Lieblingstag!").
+   Maximum sentence length: 135 ("Ich bin 15 Jahre alt und habe zwei Geschwister: Meine Schwester heißt Klara und ist 13 Jahre alt, mein Bruder Michael ist 18 Jahre alt.").
+   Average sentence length: 67.
+Words statistic
+   Count of words: 151 (98 different).
+   Minimum word: "alt".
+   Maximum word: "zwei".
+   Minimum word length: 2 ("in").
+   Maximum word length: 13 ("Lieblingsfach").
+   Average word length: 4.656.
+Numbers statistic
+   Count of numbers: 3 (3 different).
+   Minimum number: 13.
+   Maximum number: 18.
+   Average number: 15.333.

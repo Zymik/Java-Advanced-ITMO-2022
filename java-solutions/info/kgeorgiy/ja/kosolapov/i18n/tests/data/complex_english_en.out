@@ -1,0 +1,35 @@
+Analyzed file "complex_english.in"
+Summary statistics
+   Count of sentences: 13
+   Count of words: 169
+   Count of numbers: 12
+   Count of monies: 4
+Sentences statistic
+   Count of sentences: 13 (13 different).
+   Minimum sentence: "A report by the Bank of Scotland interviewed over 1,000 young people in Britain and found that 77 per cent get pocket money.".
+   Maximum sentence: "They might have to do chores to get their pocket money, helping at home with tasks like cleaning, cooking, washing up, taking out the rubbish and ironing.".
+   Minimum sentence length: 18 ("I get £80 a month.").
+   Maximum sentence length: 154 ("They might have to do chores to get their pocket money, helping at home with tasks like cleaning, cooking, washing up, taking out the rubbish and ironing.").
+   Average sentence length: 77.308.
+Words statistic
+   Count of words: 169 (100 different).
+   Minimum word: "a".
+   Maximum word: "younger".
+   Minimum word length: 1 ("A").
+   Maximum word length: 18 ("nineteen-year-olds").
+   Average word length: 4.604.
+Numbers statistic
+   Count of numbers: 12 (12 different).
+   Minimum number: 5.
+   Maximum number: 2,022.
+   Average number: 447.
+Monies statistic
+   Count of monies: 4 (4 different).
+   Minimum money: £5.00.
+   Maximum money: £100.00.
+   Average money: £47.75.
+Dates statistic
+   Count of date: 2 (2 different).
+   Minimum date: 12 May 2021.
+   Maximum date: 11 Jun 2022.
+   Average date: 25 Nov 2021.

@@ -1,0 +1,35 @@
+Анализируемый файл "complex_english.in"
+Сводная статистика
+   Число предложений: 13
+   Число слов: 169
+   Число чисел: 12
+   Число сумм: 4
+Статистика по предложениям
+   Число предложений: 13 (13 различных).
+   Минимальное предложение: "A report by the Bank of Scotland interviewed over 1,000 young people in Britain and found that 77 per cent get pocket money.".
+   Максимальное предложение: "They might have to do chores to get their pocket money, helping at home with tasks like cleaning, cooking, washing up, taking out the rubbish and ironing.".
+   Минимальная длина предложения: 18 ("I get £80 a month.").
+   Максимальная длина предложения: 154 ("They might have to do chores to get their pocket money, helping at home with tasks like cleaning, cooking, washing up, taking out the rubbish and ironing.").
+   Средняя длина предложения: 77,308.
+Статистика по словам
+   Число слов: 169 (100 различных).
+   Минимальное слово: "a".
+   Максимальное слово: "younger".
+   Минимальная длина слова: 1 ("A").
+   Максимальная длина слова: 18 ("nineteen-year-olds").
+   Средняя длина слова: 4,604.
+Статистика по числам
+   Число чисел: 12 (12 различных).
+   Минимальное число: 5.
+   Максимальное число: 2 022.
+   Среднее число: 447.
+Статистика по суммам денег
+   Число сумм: 4 (4 различных).
+   Минимальная сумма: 5,00 ₽.
+   Максимальная сумма: 100,00 ₽.
+   Средняя сумма: 47,75 ₽.
+Статистика по датам
+   Число дат: 2 (2 различных).
+   Минимальная дата: 12 мая 2021 г..
+   Максимальная дата: 11 июн. 2022 г..
+   Средняя дата: 25 нояб. 2021 г..

@@ -1,0 +1,1 @@
+javadoc -author -private --module-path ..\..\java-advanced-2022\artifacts;..\..\java-advanced-2022\lib ..\java-solutions\module-info.java ..\java-solutions\info\kgeorgiy\ja\kosolapov\implementor\Implementor.java -d ../javadoc

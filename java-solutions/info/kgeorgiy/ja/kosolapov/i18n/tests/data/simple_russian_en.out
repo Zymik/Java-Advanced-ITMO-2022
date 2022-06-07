@@ -1,0 +1,20 @@
+Analyzed file "simple_russian.in"
+Summary statistics
+   Count of sentences: 5
+   Count of words: 123
+   Count of numbers: 0
+   Count of monies: 0
+Sentences statistic
+   Count of sentences: 5 (5 different).
+   Minimum sentence: "Веленью божию, о муза, будь послушна, Обиды не страшась, не требуя венца; Хвалу и клевету приемли равнодушно И не оспаривай глупца.".
+   Maximum sentence: "Я памятник себе воздвиг нерукотворный, К нему не зарастет народная тропа, Вознесся выше он главою непокорной Александрийского столпа.".
+   Minimum sentence length: 131 ("Веленью божию, о муза, будь послушна, Обиды не страшась, не требуя венца; Хвалу и клевету приемли равнодушно И не оспаривай глупца.").
+   Maximum sentence length: 153 ("Слух обо мне пройдет по всей Руси великой, И назовет меня всяк сущий в ней язык, И гордый внук славян, и финн, и ныне дикой Тунгус, и друг степей калмык.").
+   Average sentence length: 141.4.
+Words statistic
+   Count of words: 123 (101 different).
+   Minimum word: "Александрийского".
+   Maximum word: "язык".
+   Minimum word length: 1 ("Я").
+   Maximum word length: 16 ("Александрийского").
+   Average word length: 4.585.

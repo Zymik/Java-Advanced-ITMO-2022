@@ -1,0 +1,35 @@
+Analyzed file "complex_russian.in"
+Summary statistics
+   Count of sentences: 43
+   Count of words: 275
+   Count of numbers: 37
+   Count of monies: 3
+Sentences statistic
+   Count of sentences: 43 (43 different).
+   Minimum sentence: "Аргументы командной строки: локаль текста, локаль вывода, файл с текстом, файл отчета.".
+   Maximum sentence: "Число чисел: 40.".
+   Minimum sentence length: 13 ("Число дат: 3.").
+   Maximum sentence length: 211 ("Для каждой категории должна собираться следующая статистика: число вхождений, число различных значений, минимальное значение, максимальное значение, минимальная длина, максимальная длина, среднее значение/длина.").
+   Average sentence length: 56.023.
+Words statistic
+   Count of words: 275 (156 different).
+   Minimum word: "GK".
+   Maximum word: "языках".
+   Minimum word length: 1 ("с").
+   Maximum word length: 14 ("TextStatistics").
+   Average word length: 6.72.
+Numbers statistic
+   Count of numbers: 37 (24 different).
+   Minimum number: -12,345.
+   Maximum number: 12,345.67.
+   Average number: 224.217.
+Monies statistic
+   Count of monies: 3 (3 different).
+   Minimum money: £100.00.
+   Maximum money: £345.67.
+   Average money: £222.83.
+Dates statistic
+   Count of date: 3 (3 different).
+   Minimum date: 19 May 2022.
+   Maximum date: 2 Jun 2022.
+   Average date: 26 May 2022.

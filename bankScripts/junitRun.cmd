@@ -1,0 +1,1 @@
+java --class-path ..\lib\*;.\bin\ org.junit.platform.console.ConsoleLauncher -c info.kgeorgiy.ja.kosolapov.bank.test.Tests

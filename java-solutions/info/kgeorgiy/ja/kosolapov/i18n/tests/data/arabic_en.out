@@ -1,0 +1,25 @@
+Analyzed file "arabic.in"
+Summary statistics
+   Count of sentences: 4
+   Count of words: 66
+   Count of numbers: 3
+   Count of monies: 0
+Sentences statistic
+   Count of sentences: 4 (4 different).
+   Minimum sentence: "تسجّل الآن لحضور المؤتمر الدولي العاشر ليونيكود (Unicode Conference)، الذي سيعقد في 10-12 آذار 1997 بمدينة مَايِنْتْس، ألمانيا.".
+   Maximum sentence: "و سيجمع المؤتمر بين خبراء من كافة قطاعات الصناعة على الشبكة العالمية انترنيت ويونيكود، حيث ستتم، على الصعيدين الدولي والمحلي على حد سواء مناقشة سبل استخدام يونكود في النظم القائمة وفيما يخص التطبيقات الحاسوبية، الخطوط، تصميم النصوص والحوسبة متعددة اللغات.".
+   Minimum sentence length: 12 ("مَمِمّمَّمِّ").
+   Maximum sentence length: 255 ("و سيجمع المؤتمر بين خبراء من كافة قطاعات الصناعة على الشبكة العالمية انترنيت ويونيكود، حيث ستتم، على الصعيدين الدولي والمحلي على حد سواء مناقشة سبل استخدام يونكود في النظم القائمة وفيما يخص التطبيقات الحاسوبية، الخطوط، تصميم النصوص والحوسبة متعددة اللغات.").
+   Average sentence length: 112.5.
+Words statistic
+   Count of words: 66 (61 different).
+   Minimum word: "Conference".
+   Maximum word: "يونيكود".
+   Minimum word length: 1 ("و").
+   Maximum word length: 12 ("مَمِمّمَّمِّ").
+   Average word length: 5.47.
+Numbers statistic
+   Count of numbers: 3 (3 different).
+   Minimum number: 10.
+   Maximum number: 1,997.
+   Average number: 673.
